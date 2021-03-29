@@ -15,10 +15,6 @@ class Hourly extends React.Component {
         })
 
     }
-    huy = () => {
-        const data = this.state.DataHourly
-        console.log(data[0].dt)
-    }
     componentWillMount() {
         var axios = require('axios');
         var lon = localStorage.getItem('lon');

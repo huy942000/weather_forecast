@@ -22,7 +22,7 @@ class DefaultLayout extends React.Component {
             <div className="header_out">
                 <div className="header_inner">
                     <div className="header_logo" >
-                        <img className="logo_huybq" src={Imageslogo} alt="img_logo" width="50px" height="50px" />
+                        <img className="logo_banner" src={Imageslogo} alt="img_logo" width="50px" height="50px" />
                     </div>
                     <div className="text_logo">
                         <h4>HuyBQ</h4>
@@ -31,7 +31,7 @@ class DefaultLayout extends React.Component {
 
                         <div className="search">
                             <header className="logosearch">
-                                <div className="searchhuy" >
+                                <div className="searchcity" >
                                     <ReactSearchAutocomplete
                                         placeholder="Tìm Kiếm bằng tên Thành phố"
                                         items={items}
