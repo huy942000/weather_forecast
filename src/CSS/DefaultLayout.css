@@ -1,0 +1,47 @@
+
+.header_out{
+    background-color: black;
+    color: beige;
+    height: 50px
+}
+.logo_huybq{
+    margin-left: -750px;
+}
+.text_logo h4{
+    margin-left: -592px;
+    margin-top: -49px;
+
+}
+.logo_search{
+    /* margin-right: 5px; */
+    margin-top: -7px;
+    margin-bottom: -8px;
+
+
+}
+.search_input{
+    margin-top: -2px;
+    margin-left: 0px;
+    border-radius: -1px;
+    
+}
+.search{
+    margin-left: 70%;
+    margin-top: -42px;
+ 
+}
+.search input{
+    height: 22px;
+    border-radius: -1px;
+    width: 200px;
+}
+.searchhuy{
+    margin-top: -53px;
+    height: 20px;
+    width: 350px;
+    border-radius: -8px;
+}
+
+
+
+
